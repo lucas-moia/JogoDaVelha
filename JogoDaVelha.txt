@@ -1,3 +1,5 @@
-_x|_x|__
+_x|_x|_O
 _O|_O|_x
  x| O| 
+
+ Empate
